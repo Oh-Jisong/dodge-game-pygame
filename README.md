@@ -33,6 +33,7 @@ Python과 Pygame으로 만든 간단한 닷지(Dodge) 게임입니다.
 ## 설치 방법
 ```bash
 pip install pygame
+```
 
 ---
 
