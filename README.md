@@ -49,6 +49,8 @@ python dodge_game.py
 └── README.md
 ```
 
+---
+
 ##  향후 업데이트 계획
 
 1. 코인 및 콤보 시스템
