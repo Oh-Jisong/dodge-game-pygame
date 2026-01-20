@@ -38,8 +38,9 @@ pip install pygame
 ---
 
 ## 실행
+```
 python dodge_game.py
-
+```
 ---
 
 ## 프로젝트 구조
