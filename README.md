@@ -70,7 +70,7 @@ python dodge_game_v2.py
 ```bash
 .
 ├── dodge_game_v2.py
-├── best_time.txt
+├── dodge_game.py
 ├── screenshots
 │   ├── v2(1).png
 │   └── v2(2).png
